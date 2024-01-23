@@ -1,7 +1,7 @@
 # jpa02-michaelw1985
 
 
-Repo: https://ucsb-cs156-w24/jpa02-michaelw1985
+Repo: https://github.com/ucsb-cs156-w24/jpa02-michaelw1985
 Deployed at: https://jpa02-michaelw1985.dokku-14.cs.ucsb.edu/
 
 
